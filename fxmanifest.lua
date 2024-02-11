@@ -14,9 +14,9 @@ shared_scripts {
 }
 client_scripts {
 	'client/client_js.js',
-	'client/client.lua',
+	'client/client.lua'
 }
-server_script 'server/server.lua',
+server_script 'server/server.lua'
 
 exports {
     'GET_TASK_FISHING_DATA',
